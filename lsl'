@@ -1,0 +1,66 @@
+[33mcommit 50d7e8aa2d694fbf42f8333d80946bcd7c2479e7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Carlos Faria <carlos.faria@live.estacio.br>
+Date:   Sun Jun 21 14:07:42 2020 -0300
+
+    Linux Update
+
+[33mcommit 2174632a17ea8c0b08daa67b8942dfe3b8d3aac5[m
+Author: Carlos Faria <carlos.faria@live.estacio.br>
+Date:   Sat Jun 20 01:34:21 2020 -0300
+
+    Pasta Java Add
+
+[33mcommit 61f9e51cb29aed69a5a76055f3b1366acbc74d2f[m
+Author: Carlos Faria <carlos.faria@live.estacio.br>
+Date:   Sat Jun 20 01:32:51 2020 -0300
+
+    Organização da árvore
+
+[33mcommit 76b51654e1b5a81368170b0f61043baed6e119e8[m
+Author: Carlos Faria <carlos.faria@live.estacio.br>
+Date:   Sat Jun 20 01:23:07 2020 -0300
+
+    Separação por pastas de linguagem;
+    Adição do arquivo CSS na pasta HTML;
+
+[33mcommit 71f61d134fe419ee6f4f830669c45bfb66c0f741[m
+Author: Carlos Faria <carlos.faria@live.estacio.br>
+Date:   Sat Jun 20 01:19:34 2020 -0300
+
+    Login Bootstrap
+
+[33mcommit 50ae80bbd2855799b77c8ae0037401ca173e6c48[m
+Author: Carlos Faria <carlos.faria@live.estacio.br>
+Date:   Sat Jun 20 01:00:36 2020 -0300
+
+    Incluido Hello World
+
+[33mcommit d1ab24cd3636bbc8da8b41a15584579669d21081[m
+Author: Carlos Faria <carlos.faria@live.estacio.br>
+Date:   Sat Jun 20 00:56:16 2020 -0300
+
+    Arquivos básicos de teste
+
+[33mcommit 22147ae8bf55a3b369dc44ff45b68930f59451d5[m
+Merge: 712acc5 6ecf503
+Author: Carlos Faria <carlos.faria@live.estacio.br>
+Date:   Sat Jun 20 00:07:17 2020 -0300
+
+    Merge branch 'master' of https://github.com/CarlosEduardoFaria/Git-Dio-Innovation
+    git pull origin master --allow-unrelated-histories
+    git pull origin master
+    
+    Erro ao commitar para o servidor remoto
+    "error: failed to push some refs to 'https://github.com/CarlosEduardoFaria/Git-Dio-Innovation.git'"
+
+[33mcommit 6ecf5031fefbe484d9e3ea8d9c803fe4d96e5db4[m
+Author: Carlos Eduardo Peçanha Faria <58898286+CarlosEduardoFaria@users.noreply.github.com>
+Date:   Fri Jun 19 20:40:20 2020 -0300
+
+    Initial commit
+
+[33mcommit 712acc59879402c6533ba73c7ff2b46a2a7de0f5[m
+Author: Carlos Faria <carlos.faria@live.estacio.br>
+Date:   Fri Jun 19 20:37:08 2020 -0300
+
+    Dio
